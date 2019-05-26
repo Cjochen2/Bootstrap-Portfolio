@@ -37,10 +37,15 @@ body {
     height: 97px;
 }
 
-a.navbar-brand {
+/*a.navbar-brand {
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+}*/
+
+.navbar.one {
     width: 100%;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
-    text-align: center;
-    padding-top: 20px;
 }
+
