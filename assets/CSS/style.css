@@ -37,15 +37,34 @@ body {
     height: 97px;
 }
 
-/*a.navbar-brand {
-    width: 100%;
-    background-color: #666666;
-    text-align: center;
-}*/
-
 .navbar.one {
     width: 100%;
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
+    display: flex;
+    justify-content: center;
+}
+
+.border-bottom {
+    border-width: 5px !important;
+}
+
+h1 {
+    color: #4aaaa5;
+}
+
+.btn-primary {
+    background-color: #4aaaa5;
+    border: none;
+}
+.caption {
+    position: absolute;
+    top: 75%;
+    left: 0;
+    width: 200px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+
 }
 
