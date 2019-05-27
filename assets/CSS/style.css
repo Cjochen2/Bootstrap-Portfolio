@@ -57,6 +57,7 @@ h1 {
     background-color: #4aaaa5;
     border: none;
 }
+
 .caption {
     position: absolute;
     top: 75%;
@@ -65,6 +66,5 @@ h1 {
     text-align: center;
     color: white;
     background-color: #4aaaa5;
-
 }
 
