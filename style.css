@@ -12,6 +12,16 @@ body {
     margin: 0;
 }
 
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
 .navbar {
     background-color: #ffffff;
     padding: 0;
